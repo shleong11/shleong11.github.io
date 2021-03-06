@@ -2,7 +2,7 @@
 
 ## Systems neuroscience and artificial intelligence
 
--[Digit classification website](https://shleong11.github.io/digit_classification_wesbiste/tfjs.html)
+-[Digit classification website](https://shleong11.github.io/digit_classification_website/tfjs.html)
 
 -[Digit classification website with data augmentation]
 
