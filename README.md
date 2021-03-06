@@ -4,7 +4,7 @@
 
 -[Digit classification website](https://shleong11.github.io/digit_classification_website/tfjs.html)
 
--[Digit classification website with data augmentation]
+-[Digit classification website with data augmentation](https://shleong11.github.io/digit_classification_website_with_data_augmentation/tfjs.html)
 
 Code is used and adapted with permission mainly from
 
